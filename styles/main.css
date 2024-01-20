@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+* {font-family: 'Inter';}
+
+.social-icon {
+    width: 45px;
+    height: 45px;
+    margin-top: 15px;
+    margin-right: 10px;
+  }
