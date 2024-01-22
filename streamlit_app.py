@@ -162,9 +162,6 @@ def main():
         with cert_animation:
             st_lottie(animation_source=animation_3, speed=1, quality='high', height=400, width=300)
         with certs:
-            st.write('##')
-            st.write('##')
-            st.write('##')
             st.text('''
                      - Google - Crash Course on Python: {url1}
                      
@@ -184,9 +181,6 @@ def main():
         with edu_animation:
             st_lottie(animation_source=animation_4, quality='high', height=400, width=300) 
         with education:
-            st.write('##')
-            st.write('##')
-            st.write('##')
             st.text('''
                      
                      - CUNY Hunter College – Computer Science (2017 – 2021)
