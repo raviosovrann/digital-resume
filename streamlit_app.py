@@ -94,7 +94,7 @@ def main():
                 
                 - Proficient in Agile methodology, delivering exemplary client support, and conducting efficient database and server testing.
                     ''')
-        st.write('###')
+        st.write('####')
         
     with st.container():
         st.subheader('_Data Analyst at SCOUTFY | São Paulo, Brazil_')
@@ -111,7 +111,7 @@ def main():
                 
                 - Executed seamless data loading into CSV and JSON file formats, facilitating efficient data storage and retrieval processes.
                 ''')
-        st.write('###')
+        st.write('####')
         
     with st.container():
         st.subheader('_Internship at Boston Consulting Group | Virtual Internship_')
@@ -153,7 +153,7 @@ def main():
                         - Microsoft Office Suite 
                         - Postman
                     ''')
-        st.divider()
+    st.divider()
     
     # Certifications
     with st.container():
